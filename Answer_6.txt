@@ -1,0 +1,16 @@
+Git log - lists the commits made to the repository in 
+reverse chronological order.
+
+Git show - The git show command is used to view information
+about a label or commit.
+
+Git Blame - 
+it is a universal utility for troubleshooting. It has many applications.
+ The general purpose of git b lame is to display author metadata associated 
+with lines that were added to a file when it was committed.
+
+Git Grep - 
+searches for a match with the specified string in all project files.
+ This is a very handy command for quick analysis from the terminal.
+ It is more convenient than regular grep,
+ because it knows about ignoring and does not look at the .git directory
