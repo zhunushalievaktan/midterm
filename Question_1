@@ -1,0 +1,1 @@
+Git Grep. Git ships with a command called grep that allows you to easily search through any committed tree, the working directory, or even the index for a string or regular expression.
